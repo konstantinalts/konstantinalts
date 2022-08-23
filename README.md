@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-# I am Konstantina and I am a Data Scientist 📉
+### I am Konstantina and I am a Data Scientist 📉
 
 <!--
 **konstantinalts/konstantinalts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
