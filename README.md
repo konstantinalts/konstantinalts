@@ -59,7 +59,6 @@ me = Me()
     <a href="https://github.com/search?q=user%3Apapaemman+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-3476ab.svg?logo=python&logoColor=ffd542"></a>
     <a href="https://github.com/search?q=user%3Apapaemman+language%3Ar"><img alt="R" src="https://img.shields.io/badge/R-276DC3.svg?logo=r&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3Apapaemman+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3Apapaemman+language%3Abash"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
 </p>
 
 ### 🧰 Frameworks, libraries and DB
@@ -111,32 +110,5 @@ me = Me()
 
 <br>
 
-## 📘 Selected Open Source Projects
-
-<p align="left">
-  <a href="https://github.com/papaemman/AutoML-tools-exploration"><img width="330" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=papaemman&repo=AutoML-tools-exploration&theme=react&bg_color=29315F&title_color=F8D866&icon_color=F8D866&hide_border=false&show_icons=true" alt="decentralized-technologies"></a>	
-  <a href="https://github.com/papaemman/multimedia_db"><img width="330" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=papaemman&repo=multimedia_db&theme=react&bg_color=29315F&title_color=F8D866&icon_color=F8D866&hide_border=false&show_icons=true" alt="multimedia_db"></a>
-  <a href="https://github.com/papaemman/Mining-of-Massive-Datasets-AUTh"><img width="330" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=papaemman&repo=Mining-of-Massive-Datasets-AUTh&theme=react&bg_color=29315F&title_color=F8D866&icon_color=F8D866&hide_border=false&show_icons=true" alt="decentralized-technologies"></a>		
-  <a href="https://github.com/papaemman/decentralized-technologies"><img width="330" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=papaemman&repo=decentralized-technologies&theme=react&bg_color=29315F&title_color=F8D866&icon_color=F8D866&hide_border=false&show_icons=true" alt="decentralized-technologies"></a>			
-</p>
-	
-<p align="left">
-  <a href="https://github.com/papaemman?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-182447?style=for-the-badge&logoColor=white&logo=repo"/></a>
-</p>
-
-
-<br>
-
-<details>
-    <summary><strong>My GitHub Stats</strong></summary>
-      <p align="center">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=papaemman&hide_langs_below=18&line_height=27&layout=compact&title_color=29315F&text_color=29315F&hide_border=True"/>
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=papaemman&show_icons=true&count_private=true&include_all_commits=true&line_height=21%22%20alt=%22Papaemman%27s%20Github%20Stats&title_color=29315F&text_color=29315F&icon_color=686466&hide_border=True" alt="Papaemman's Github Stats"/>
-      <img align="center" src="https://github-profile-trophy.vercel.app/?username=papaemman&column=7&title_color=29315F&text_color=29315F&icon_color=686466&hide_border=True" alt="papaemman's Github Trophy" />
-      </p>
-</details>
-
-
-<br>
 
 <!-- <h2 align='center'>🔥<i>Stay hungry</i>🔥</h2> -->
