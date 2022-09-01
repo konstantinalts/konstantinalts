@@ -1,6 +1,3 @@
-### Hi there 👋
-
-
 <!--
 **konstantinalts/konstantinalts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -20,26 +17,6 @@ Here are some ideas to get you started:
 
  ![Banner Image](https://github.com/papaemman/papaemman/blob/main/assets/header_image.png)
 
-
-<!-- [![Linkedin: Papaemman](https://img.shields.io/badge/-Panagiotis%20Papaemmanouil-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/panagiotis-papaemmanouil/)](https://www.linkedin.com/in/panagiotis-papaemmanouil/) -->
-
-<p align="center">
-  <a href= "https://papaemman.me"><img height="40" src="https://github.com/papaemman/papaemman/blob/main/assets/web_icon.jpg"></a>
-  <a href= "mailto:papaemman.pan@gmail.com"><img height="37" src="https://github.com/papaemman/papaemman/blob/main/assets/email.png"></a>
-  <a href= "https://www.linkedin.com/in/panagiotis-papaemmanouil/"><img height="40" src="https://github.com/papaemman/papaemman/blob/main/assets/linkedin.png"></a>
-  <a href= "https://twitter.com/Papaemman_pan"><img height="40" src="https://github.com/papaemman/papaemman/blob/main/assets/twitter.png"></a>
-  <a href= "https://github.com/papaemman"><img height="40" src="https://github.com/papaemman/papaemman/blob/main/assets/github.svg"></a>
-  <a href= "https://www.instagram.com/panagiotis_papaemmanouil/"><img height="40" src="https://github.com/papaemman/papaemman/blob/main/assets/instagram.jpg"></a>  
-  <a href= "https://medium.com/@papaemman.pan"><img height="40" src="https://github.com/papaemman/papaemman/blob/main/assets/medium_icon.png"></a>
-  <a href= "https://dev.to/papaemman"><img height="40" src="https://github.com/papaemman/papaemman/blob/main/assets/dev.png"></a>
-</p>
-
-<p align="center">
-  <img src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=papaemman.papaemman&color=00df00">     
-  <img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=102">     
-</p>
-	    
-<br>
 
 ## Konstantina - @konstantinalts
 - 📊 Data Scientist
