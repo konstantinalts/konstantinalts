@@ -53,7 +53,7 @@ me = Me()
 ## 🛠️ My favorite tools
 
 
-### 👨‍💻 Programming languages
+### 👩‍💻 Programming languages
 
 <p>
     <a href="https://github.com/search?q=user%3Apapaemman+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-3476ab.svg?logo=python&logoColor=ffd542"></a>
