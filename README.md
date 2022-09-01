@@ -11,12 +11,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+![Banner Image](https://github.com/papaemman/papaemman/blob/main/assets/header_image.png)
+
 -->
 
 
 
- ![Banner Image](https://github.com/papaemman/papaemman/blob/main/assets/header_image.png)
-
+ 
 
 ## Konstantina - @konstantinalts
 - 📊 Data Scientist
