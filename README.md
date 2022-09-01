@@ -13,16 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 ![Banner Image](https://github.com/papaemman/papaemman/blob/main/assets/header_image.png)
 
--->
-
-
-
- 
-
-## Konstantina - @konstantinalts
-- 📊 Data Scientist
-- 🧠 Machine Learning / Deep Learning Engineer
-- 👩‍💻 Workforce Platforms & Applications - Email and O365 Engineer
 
 ```python
 #!/usr/bin/python
@@ -107,3 +97,16 @@ me = Me()
 
 
 <!-- <h2 align='center'>🔥<i>Stay hungry</i>🔥</h2> -->
+
+
+-->
+
+
+
+ 
+
+## Konstantina - @konstantinalts
+- 📊 Data Scientist
+- 🧠 Machine Learning / Deep Learning Engineer
+- 👩‍💻 Workforce Platforms & Applications - Email and O365 Engineer
+
