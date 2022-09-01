@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 
 
-** ![Banner Image](https://github.com/papaemman/papaemman/blob/main/assets/header_image.png)
+ ![Banner Image](https://github.com/papaemman/papaemman/blob/main/assets/header_image.png)
 
 
 <!-- [![Linkedin: Papaemman](https://img.shields.io/badge/-Panagiotis%20Papaemmanouil-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/panagiotis-papaemmanouil/)](https://www.linkedin.com/in/panagiotis-papaemmanouil/) -->
@@ -41,11 +41,10 @@ Here are some ideas to get you started:
 	    
 <br>
 
-## Panagiotis Papaemanouil - @papaemman
+## Konstantina - @konstantinalts
 - 📊 Data Scientist
-- 📐 Mathematician
 - 🧠 Machine Learning / Deep Learning Engineer
-- 👨‍💻 Technology Entrepreneur
+- 👨‍💻 Workforce Platforms & Applications - Email and O365 Engineer
 
 ```python
 #!/usr/bin/python
