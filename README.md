@@ -99,11 +99,7 @@ me = Me()
 <!-- <h2 align='center'>🔥<i>Stay hungry</i>🔥</h2> -->
 
 
--->
 
-
-
- 
 
 ## Konstantina - @konstantinalts
 - 📊 Data Scientist
