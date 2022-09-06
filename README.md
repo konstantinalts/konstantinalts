@@ -37,7 +37,7 @@ me = Me()
 
 <br>
 
-## 🛠️ My favorite tools
+## 🛠️ Some of the tools I have used
 
 
 ### 👩‍💻 Programming languages
