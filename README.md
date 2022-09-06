@@ -89,7 +89,7 @@ class Me:
     A class to represent me.
     """
     def __init__(self):
-        self.name = "Konstantina"
+        self.name = "Konstantina Lts"
         self.pronouns = "she/her"
 	self.role1 = "Data Scientist"
 	self.role2 = " Workforce Platforms & Applications - Email and O365 Engineer"
@@ -98,7 +98,7 @@ class Me:
         self.language_spoken = ["el_GR", "en_US", "de_DE", "ko_KR"]
 	self.country = "Greece"
 	self.city = "Thessaloniki"
-	self.hard_skills = ["Data analysis", "Data modeling", "Machine learning", "Statistics", "Data visualization", "Programming",
+	self.hard_skills = ["Data analysis", "Data modeling", "Data wrangling", "Machine learning", "Statistics", "Quantitative analysis", "Data visualization", "Data mining", "Programming",]
 	self.soft_skills = ["Accountability", "Passion", "Innovation", "Quality", "Teamwork", "Leadership", "Constant Improvement", "Continuous Learning"]
 				
 
