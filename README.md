@@ -80,6 +80,9 @@ Here are some ideas to get you started:
 - 👩‍💻 Workforce Platforms & Applications - Email and O365 Engineer
 
 
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=""></img>
+
+
 ```python
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
