@@ -98,7 +98,8 @@ class Me:
         self.language_spoken = ["el_GR", "en_US", "de_DE", "ko_KR"]
 	self.country = "Greece"
 	self.city = "Thessaloniki"
-	self.values = ["Respect", "Integrity", "Trust", "Accountability", "Passion", "Innovation", "Quality", "Teamwork", "Leadership", "Constant Improvement", "Continuous Learning"]
+	self.hard_skills = ["Data analysis", "Data modeling", "Machine learning", "Statistics", "Data visualization", "Programming",
+	self.soft_skills = ["Accountability", "Passion", "Innovation", "Quality", "Teamwork", "Leadership", "Constant Improvement", "Continuous Learning"]
 				
 
 me = Me()
