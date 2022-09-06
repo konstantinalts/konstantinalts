@@ -14,33 +14,6 @@ Here are some ideas to get you started:
 ![Banner Image](https://github.com/papaemman/papaemman/blob/main/assets/header_image.png)
 
 
-```python
-#!/usr/bin/python
-# -*- coding: utf-8 -*-
-
-class Me:
-    """
-    A class to represent a person. (Actually just for me)
-    """
-    def __init__(self):
-        self.name = "Konstantina"
-        self.pronouns = "she/her"
-	self.role1 = "Data Scientist"
-	self.role2 = " Workforce Platforms & Applications - Email and O365 Engineer"
-	self.bsc_studies = ("Mathematics", "Mathematics Dept.", "Aristotle University of Thessaloniki")
-	self.msc_studies = ("Data and Web Science", "Computer Science Dept.", "Aristotle University of Thessaloniki")
-        self.language_spoken = ["el_GR", "en_US"]
-	self.country = "Greece"
-	self.city = "Thessaloniki"
-	self.values = ["Respect", "Integrity", "Trust", "Accountability", "Passion", "Innovation", "Quality", "Teamwork", "Leadership", "Constant Improvement", "Continuous Learning"]
-				
-
-me = Me()
-```
-
-<br>
-
-## 🛠️ My favorite tools
 
 
 ### 👩‍💻 Programming languages
@@ -105,6 +78,35 @@ me = Me()
 - 📊 Data Scientist
 - 🧠 Machine Learning / Deep Learning Engineer
 - 👩‍💻 Workforce Platforms & Applications - Email and O365 Engineer
+
+
+```python
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
+
+class Me:
+    """
+    A class to represent me.
+    """
+    def __init__(self):
+        self.name = "Konstantina"
+        self.pronouns = "she/her"
+	self.role1 = "Data Scientist"
+	self.role2 = " Workforce Platforms & Applications - Email and O365 Engineer"
+	self.bsc_studies = (" Informatics and Communications Engineer", "Computer Engineer")
+	self.msc_studies = ("Data Science")
+        self.language_spoken = ["el_GR", "en_US", "de_DE", "ko_KR"]
+	self.country = "Greece"
+	self.city = "Thessaloniki"
+	self.values = ["Respect", "Integrity", "Trust", "Accountability", "Passion", "Innovation", "Quality", "Teamwork", "Leadership", "Constant Improvement", "Continuous Learning"]
+				
+
+me = Me()
+```
+
+<br>
+
+## 🛠️ My favorite tools
 
 
 ### 👩‍💻 Programming languages
