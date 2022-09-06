@@ -1,4 +1,4 @@
-## Konstantina - @konstantinalts
+## Hi, I'm Konstantina 👋🏻
 - 📊 Data Scientist
 - 🧠 Machine Learning / Deep Learning Engineer
 - 👩‍💻 Workforce Platforms & Applications - Email and O365 Engineer
