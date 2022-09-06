@@ -76,7 +76,7 @@ me = Me()
 
 
 
-### 💻 Software & Tools
+### 💻 Software & IDEs
 
 ![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white)
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
