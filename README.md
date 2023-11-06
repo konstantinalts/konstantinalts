@@ -1,7 +1,7 @@
 ## Hi, I'm Konstantina 👋🏻
+- 👩‍💻 Manager, Cloud Engineering
 - 📊 Data Scientist
 - 🧠 Machine Learning / Deep Learning Engineer
-- 👩‍💻 Workforce Platforms & Applications - Email and O365 Engineer
 - ⚙Scrum Master
 
 
@@ -21,7 +21,7 @@ class Me:
         self.name = "Konstantina Lts"
         self.pronouns = "she/her"
 	self.role1 = "Data Scientist"
-	self.role2 = " Workforce Platforms & Applications - Email and O365 Engineer"
+	self.role2 = " Manager, Cloud Engineering"
 	self.bsc_studies = (" Informatics and Communications Engineer", "Computer Engineer")
 	self.msc_studies = ("Data Science")
 	self.msc_certifications = ("Scrum Master", "Product Owner")
