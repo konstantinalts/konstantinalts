@@ -28,7 +28,7 @@ class Me:
         self.language_spoken = ["el_GR", "en_US", "de_DE", "ko_KR"]
 	self.country = "Greece"
 	self.city = "Thessaloniki"
-	self.hard_skills = ["Data analysis", "Data modeling", "Data wrangling", "Machine learning", "Deep Learning", "Statistics", "Quantitative analysis", "Data visualization", "Data mining", "Programming"]
+	self.hard_skills = ["Cloud Engineering", "DevSecOps", "Data analysis", "Data modeling", "Data wrangling", "Machine learning", "Deep Learning", "Statistics", "Quantitative analysis", "Data visualization", "Data mining", "Programming"]
 	self.soft_skills = ["Project Management", "Decision Making", "Problem-Solving", "Passion", "Innovation", "Creativity", "Quality", "Attention to detail", "Communication", "Teamwork", "Work ethic", "Leadership", "Constant Improvement", "Continuous Learning", "Adaptability"]
 				
 
