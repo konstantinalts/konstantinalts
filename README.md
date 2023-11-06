@@ -20,8 +20,8 @@ class Me:
     def __init__(self):
         self.name = "Konstantina Lts"
         self.pronouns = "she/her"
-	self.role1 = "Data Scientist"
-	self.role2 = " Manager, Cloud Engineering"
+        self.role1 = " Manager, Cloud Engineering"
+	self.role2 = "Data Scientist"	
 	self.bsc_studies = (" Informatics and Communications Engineer", "Computer Engineer")
 	self.msc_studies = ("Data Science")
 	self.msc_certifications = ("Scrum Master", "Product Owner")
